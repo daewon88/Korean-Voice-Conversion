@@ -1,7 +1,7 @@
 # Korean-Voice-Conversion
 
 Korean Voice Conversion using Cycle-GAN.  
-It is tensorflow 2.0 implementation of the paper : ["CycleGAN-VC Parallel-Data-Free Voice Conversion Using Cycle-Consistent Adversarial Networks"](https://arxiv.org/abs/1711.112930) (I changed some hyper-parameters to apply to Korean-dataset)  
+It is tensorflow 2.0 implementation of the paper : ["CycleGAN-VC Parallel-Data-Free Voice Conversion Using Cycle-Consistent Adversarial Networks"](https://arxiv.org/abs/1711.11293) (I changed some hyper-parameters to apply to Korean-dataset)  
 You can listen converted voices in *Sample directory*
 
 # Dependancies
@@ -31,7 +31,7 @@ Locate test dataset to designated folders.(test_A, test_B)
     
 # Reference
 
-* https://arxiv.org/abs/1711.112930
+* https://arxiv.org/abs/1711.11293
 * https://github.com/pritishyuvraj/Voice-Conversion-GAN : pytorch implemantation. I referenced the preprocessing code.
 
     
