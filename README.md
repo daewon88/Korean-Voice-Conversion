@@ -22,7 +22,7 @@ I used Man's voice and Woman's voice in 20s.
 Locate train dataset and validation dataset to designated folders.(train dataset : train_A, train_B / validation dataset : validation_A, validation_B). Before starting training, preprocessing is carried out. (It may take quite a long time)  
 Trainging takes at least 100 epochs to achieve good quality results.
 
-    !python train.py
+    !python main.py
   
 ## Test
 Locate test dataset to designated folders.(test_A, test_B)
